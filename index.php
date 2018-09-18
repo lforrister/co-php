@@ -8,6 +8,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <link rel="shortcut icon" href="assets/images/logo-square.png" type="image/x-icon">
   <meta name="description" content="">
+    <meta property="og:title" content="Cortez Oil">
+	<meta property="og:image" content="screenshot.png"> 
+	<meta property="og:url" content="http://www.cortezoil.com">
   <title>Home</title>
   <link rel="stylesheet" href="<?php echo get_bloginfo('template_directory'); ?>/assets/web/assets/mobirise-icons/mobirise-icons.css">
   <link rel="stylesheet" href="<?php echo get_bloginfo('template_directory'); ?>/assets/tether/tether.min.css">

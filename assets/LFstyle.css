@@ -49,6 +49,24 @@
     padding-right: 5%;
 }
 
+/* BIOS */
+.bios__col {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.bios__caption {
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1;
+    justify-content: center;
+}
+
+.bios__name {
+    width: 100%;
+}
+
 
 /* MEDIA QUERIES */
 

@@ -61,10 +61,19 @@
     flex-wrap: wrap;
     flex: 1;
     justify-content: center;
+
 }
 
 .bios__name {
     width: 100%;
+}
+
+.bios__title {
+    line-height: 1.2;
+}
+
+.bios__role {
+    margin-top: 5px;
 }
 
 

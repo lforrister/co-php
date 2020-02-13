@@ -3161,61 +3161,61 @@ map-section .google-map[data-state="loading"] [data-state-details] {
 .patrick-collins P {
   text-align: left;
 }
-.michael-catrino {
+.bios__textleft {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #f9f9f9;
 }
-.michael-catrino h2 {
+.bios__textleft h2 {
   text-align: left;
 }
-.michael-catrino h4 {
+.bios__textleft h4 {
   text-align: left;
   font-weight: 500;
 }
-.michael-catrino p {
+.bios__textleft p {
   color: #767676;
   text-align: left;
 }
-.michael-catrino .aside-content {
+.bios__textleft .aside-content {
   flex-basis: 100%;
 }
-.michael-catrino .block-content {
+.bios__textleft .block-content {
   display: -webkit-flex;
   flex-direction: column;
   -webkit-flex-direction: column;
   word-break: break-word;
 }
-.michael-catrino .media {
+.bios__textleft .media {
   margin: initial;
   align-items: center;
 }
-.michael-catrino .mbr-figure {
+.bios__textleft .mbr-figure {
   align-self: flex-start;
   -webkit-align-self: flex-start;
   -webkit-flex-shrink: 0;
   flex-shrink: 0;
 }
-.michael-catrino .card-img {
+.bios__textleft .card-img {
   padding-right: 2rem;
   width: auto;
 }
-.michael-catrino .card-img span {
+.bios__textleft .card-img span {
   font-size: 72px;
   color: #707070;
 }
 @media (min-width: 992px) {
-  .michael-catrino .mbr-figure {
+  .bios__textleft .mbr-figure {
     padding-right: 4rem;
     padding-right: 0;
     padding-left: 4rem;
   }
-  .michael-catrino .media-container-row {
+  .bios__textleft .media-container-row {
     -webkit-flex-direction: row-reverse;
   }
 }
 @media (max-width: 991px) {
-  .michael-catrino .mbr-figure {
+  .bios__textleft .mbr-figure {
     padding-right: 0;
     padding-bottom: 1rem;
     margin-bottom: 2rem;
@@ -3224,87 +3224,87 @@ map-section .google-map[data-state="loading"] [data-state-details] {
     padding-top: 1rem;
     margin-top: 2rem;
   }
-  .michael-catrino .media-container-row {
+  .bios__textleft .media-container-row {
     -webkit-flex-direction: column-reverse;
   }
 }
 @media (max-width: 300px) {
-  .michael-catrino .card-img span {
+  .bios__textleft .card-img span {
     font-size: 40px !important;
   }
 }
-.michael-catrino H2 {
+.bios__textleft H2 {
   color: #b61e22;
   text-align: left;
 }
-.michael-catrino P {
+.bios__textleft P {
   text-align: left;
 }
-.ryan-allen {
+.bios__textright {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.ryan-allen h2 {
+.bios__textright h2 {
   text-align: left;
 }
-.ryan-allen h4 {
+.bios__textright h4 {
   text-align: left;
   font-weight: 500;
 }
-.ryan-allen p {
+.bios__textright p {
   color: #767676;
   text-align: left;
 }
-.ryan-allen .aside-content {
+.bios__textright .aside-content {
   flex-basis: 100%;
 }
-.ryan-allen .block-content {
+.bios__textright .block-content {
   display: -webkit-flex;
   flex-direction: column;
   -webkit-flex-direction: column;
   word-break: break-word;
 }
-.ryan-allen .media {
+.bios__textright .media {
   margin: initial;
   align-items: center;
 }
-.ryan-allen .mbr-figure {
+.bios__textright .mbr-figure {
   align-self: flex-start;
   -webkit-align-self: flex-start;
   -webkit-flex-shrink: 0;
   flex-shrink: 0;
 }
-.ryan-allen .card-img {
+.bios__textright .card-img {
   padding-right: 2rem;
   width: auto;
 }
-.ryan-allen .card-img span {
+.bios__textright .card-img span {
   font-size: 72px;
   color: #707070;
 }
 @media (min-width: 992px) {
-  .ryan-allen .mbr-figure {
+  .bios__textright .mbr-figure {
     padding-right: 4rem;
   }
 }
 @media (max-width: 991px) {
-  .ryan-allen .mbr-figure {
+  .bios__textright .mbr-figure {
     padding-right: 0;
     padding-bottom: 1rem;
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 300px) {
-  .ryan-allen .card-img span {
+  .bios__textright .card-img span {
     font-size: 40px !important;
   }
 }
-.ryan-allen H2 {
+.bios__textright H2 {
   color: #b61e22;
   text-align: left;
 }
-.ryan-allen P {
+.bios__textright P {
   text-align: left;
 }
 .peggy-loyd {
@@ -3389,7 +3389,7 @@ map-section .google-map[data-state="loading"] [data-state-details] {
 .victoria-gilbert {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #f9f9f9;
 }
 .victoria-gilbert h2 {
   text-align: left;
